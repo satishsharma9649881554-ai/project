@@ -1,11 +1,11 @@
 {
-  "name": "projectbackend",
+  "name": "project",
   "version": "1.0.0",
   "description": "",
   "keywords": [
     "javascript",
     "backend",
-    "chai"
+    "java"
   ],
   "license": "ISC",
   "author": "gajendra",
